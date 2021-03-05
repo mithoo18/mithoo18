@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**mithoo18/mithoo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# A Passionate Android Developer & UI/UX Designer 🚀 
+# Passionate Android Developer
 
 ## About Me 🤷🏻‍♂️
 
