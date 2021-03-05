@@ -3,14 +3,18 @@
 <!--
 **mithoo18/mithoo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# A Passionate Android Developer & UI/UX Designer 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## About Me 🤷🏻‍♂️
+
+* 📱 Android Developer
+- 💬 Ask me about Android 
+- 📫 How to reach me: devanshu18g@gmail.com
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mithoo18&count_private=true&show_icons=true&include_all_commits=true" alt="Mithoo | Stats" />
+</details>
+
+## Projects made with ❤️
