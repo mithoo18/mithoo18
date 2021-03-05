@@ -3,9 +3,9 @@
 ## About Me 🤷🏻‍♂️
 
 * 📱 Android Developer
-- 💬 Ask me about Android 
+- 💬 Ask me about Android
 - 📫 How to reach me: devanshu18g@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I Love Reading 
 -->
 <details>
   <summary><b>📊 Github Stats</b></summary>
