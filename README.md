@@ -2,7 +2,7 @@
 
 ## About Me 🤷🏻‍♂️
 
--->📱 Android Developer 
+-->📱 Graduate 2021
 -->💬 Ask me about Android 
 -->📫 How to reach me: devanshu18g@gmail.com 
 -->⚡ Fun fact: I Love Reading Quora 
