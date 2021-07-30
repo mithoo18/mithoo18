@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Devanshu Gupta
 
 <!--<h1 align="center">Hi 👋, I'm Devanshu Gupta</h1> -->
-<h3 align="center">A Young Passionate Fresher Looking For Jobs Delhi,India</h3>
+<!-- <h3 align="center">A Young Passionate Fresher Looking For Jobs Delhi,India</h3> -->
 <!-- <h4 align="center">My porfolio website : <a href="https://.github.io/">.github.io</a></h4> -->
 <!--# Passionate Android Developer -->
 
